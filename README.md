@@ -21,6 +21,8 @@ Section dedicated to systems formalization and modelling.
 
 ## Petri Net
 [Pipe 2](http://pipe2.sourceforge.net/): A tool for creating and analysing Petri nets.  
+[Tina 3.6](http://projects.laas.fr/tina/download.php): TIme petri
+Net Analyzer.
 <br/><br/><br/>
 
 ## Compiler Logics
