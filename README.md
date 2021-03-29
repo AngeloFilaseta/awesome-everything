@@ -10,7 +10,7 @@ Section dedicated to Operative System tools and cool OS feature.
 ## Linux
 [Oh My Zsh](https://ohmyz.sh/): Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 <br/><br/><br/>
-# Modelling
+# Modelling and Specifications
 Section dedicated to systems formalization and modelling.
 ## UML
 [StarUML](https://staruml.io/) (💸): A sophisticated software modeler for agile and concise modeling.  
@@ -19,12 +19,16 @@ Section dedicated to systems formalization and modelling.
 [PlantUML](http://www.plantuml.com)(🌎): Formalization of any UML diagram online using a specific syntax.  
 <br/><br/><br/>
 
-## Petri Net
+## Concurrent And Distributed Systems
+
+####Petri Nets
 [Pipe 2](http://pipe2.sourceforge.net/): A tool for creating and analysing Petri nets.  
 [Tina 3.6](http://projects.laas.fr/tina/download.php): TIme petri
 Net Analyzer.
 <br/><br/><br/>
-
+#### Other specifications
+[TLA+ ToolBox](https://lamport.azurewebsites.net/tla/toolbox.html): ToolBox for TLA+ specifications. It is used to design, model, document, and verify programs, especially concurrent systems and distributed systems.
+<br/><br/><br/>
 ## Compiler Logics
 [JFLAP](http://www.jflap.org/): JFLAP is software for experimenting with formal languages topics including nondeterministic finite automata, nondeterministic pushdown automata, multi-tape Turing machines, several types of grammars, parsing, and L-systems.
 <br/><br/><br/>
