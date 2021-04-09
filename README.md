@@ -94,12 +94,19 @@ JavaScript Framework.
 [React](https://reactjs.org/): A JavaScript library for building user interfaces.  
 #### IDE
 [WebStorm](https://www.jetbrains.com/webstorm/)(💲): JetBrains IDE for Javascript development. ⭐⭐⭐⭐⭐   
+[JSFiddle](https://jsfiddle.net/)(🌎): An Online IDE For HTML, CSS & JS. ⭐⭐⭐  
 [Any other text editor](): Refer to [Multi-Purpose IDE/Text Editor](#multiPurposeIDE).
 <br/><br/><br/>
 # Markup
 Section dedicated Markup languages.
 ## HTML
 [Wake](https://wave.webaim.org/)(🌎): WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
+#### IDE
+[JSFiddle](https://jsfiddle.net/)(🌎): An Online IDE For HTML, CSS & JS. ⭐⭐⭐  
+<br/><br/><br/>
+## CSS
+#### IDE
+[JSFiddle](https://jsfiddle.net/)(🌎): An Online IDE For HTML, CSS & JS. ⭐⭐⭐  
 <br/><br/><br/>
 ## Latex
 [BibTeX entry from URL](https://chrome.google.com/webstore/detail/bibtex-entry-from-url/mgpmgkhhbjgkpnanlmlhibjfgpdpgjec): Chrome Extension to get BibTex Entry for bibliograpy directly from URL.  
