@@ -126,6 +126,12 @@ Section dedicated Markup languages.
 #### Cheats
 [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/): Complete list of github markdown emoji markup.
 <br/><br/><br/>
+# Database
+Section dedicated to Databases.
+## MongoDB
+#### Softwares
+[Robo3T](https://robomongo.org/): Robo 3T (formerly Robomongo) is the free, lightweight, open-source MongoDB GUI with an embedded mongo shell, real auto-completion.   
+<br/><br/><br/>
 # Images
 Section dedicated to images softwares.
 ## General
@@ -159,6 +165,7 @@ code, markup and prose. ⭐⭐⭐⭐
 #### Apps
 [Mimo: Learn Coding](https://play.google.com/store/apps/details?id=com.getmimo&hl=it&gl=US)(💲): App on Play Store and App Store to learn some coding language.
 #### Telegram Bots
-[BitBucket Bot](https://botostore.com/c/bitbucket_bot/) : Telegram bot to notify push on repository.
+[BitBucket Bot](https://botostore.com/c/bitbucket_bot/) : Telegram bot to notify push on BitBucket repository.
+[GitHub Bot](https://telegram.me/githubbot) : Telegram bot to notify push on GitHub repository.
 
 <br/><br/><br/>
